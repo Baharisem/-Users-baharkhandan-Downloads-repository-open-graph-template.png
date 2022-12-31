@@ -1,0 +1,7 @@
+
+
+{%block title %}
+   Register
+{%endblock%}
+
+{
